@@ -1,9 +1,9 @@
 import Image from 'next/image'
 
 
-export default function Home() {
+export default function Socials() {
   return (
-    <div className='w-[80%]'>
+    <div>
       
     </div>
   )
