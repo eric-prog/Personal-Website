@@ -11,12 +11,24 @@ html, body {
 
 @layer components {
   .col {
-    @apply flex flex-col items-center justify-center h-full w-full;
+    @apply flex flex-col items-center justify-center h-full w-full text-left;
   }
   .row {
-    @apply flex flex-row items-center justify-center h-full w-full;
+    @apply flex flex-row items-center justify-start h-full w-full;
+  }
+  .block {
+    @apply py-1 px-3 rounded border-[1px]
+  }
+  .experience {
+    @apply my-4
+  }
+  .symbol {
+    @apply text-4xl
   }
   .title {
-    @apply text-2xl mb-3
+    @apply text-2xl mb-3 
+  }
+  .page {
+    @apply my-4 items-start
   }
 }
