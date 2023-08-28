@@ -10,6 +10,9 @@ import Speaking from './_components/Speaking'
 import { SpeakingList } from './_template_data/Speaking'
 import Startups from './_components/Startups'
 import { affiliations, studye } from './_template_data/Affiliations'
+import Projects from './_components/Projects'
+import { ProjectsList } from './_template_data/Projects'
+import Me from './_components/Me'
 
 
 export default function Home() {
@@ -19,8 +22,10 @@ export default function Home() {
       <Experience experience={ExperienceList} />
       <Speaking speaking={SpeakingList} />
       <Blog blogs={BlogList} />
+      <Projects projects={ProjectsList} />
       <Startups studye={studye} affiliations={affiliations} />
       <Photos photos={PhotoList}/>
+      <Me />
       <BottomNav />
     </div>
   )

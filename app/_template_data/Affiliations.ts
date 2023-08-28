@@ -1,4 +1,4 @@
-import TOHacks from '../_assets/affiliations/tohacks.jpeg'
+// import TOHacks from '../_assets/affiliations/tohacks.jpeg'
 import Communitech from '../_assets/affiliations/communitech.png'
 import Velocity from '../_assets/affiliations/velocity.webp'
 
@@ -13,7 +13,7 @@ import Photo8 from '../_assets/affiliations/studye/photo8.png'
 
 
 export const affiliations = [
-    TOHacks.src, Communitech.src, Velocity.src
+    Communitech.src, Velocity.src
 ]
 
 export const studye = [

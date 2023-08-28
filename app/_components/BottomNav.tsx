@@ -10,7 +10,7 @@ export default function BottomNav() {
                 <Link target="_blank" href="https://www.linkedin.com/in/eric-sheen/" className="mr-4">&#9827; LinkedIn</Link>
                 <Link target="_blank" href="https://www.youtube.com/channel/UC2fjk5zFsrMCjOMASR7N-fw" className="mr-4">&#9830; YouTube</Link>
                 <Link target="_blank" href="https://twitter.com/eric_sheen0" className="mr-4">&#9829; Twitter</Link>
-                <Link target="_blank" href="https://twitter.com/eric_sheen0"><span className="text-xl">∞</span> infinit3e</Link>
+                <Link target="_blank" href="https://discord.com/blog/usernames"><span className="text-xl">∞</span> infinit3e</Link>
             </div>
         </div>
     )

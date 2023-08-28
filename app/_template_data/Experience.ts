@@ -40,7 +40,7 @@ export const ExperienceList: ExperienceListType[] = [
         date: "May 2023 - August 2023",
         logo: Descope.src,
         position: "DevRel Engineer (Founding intern)",
-        description: "hacking away on open source projects",
+        description: "The first intern hired at Descope. I'm hacking away at open-source projects, a few of them actively being used by customers (most notably Descope Explorer). The Hackathon Template is expected to be featured on Vercel templates (https://vercel.com/templates) soon! My intuition for design and functional interfaces has led me to be the go-to guy for design in the team.",
         sources: [
             {
                 title: "Descope Explorer",
@@ -97,7 +97,7 @@ export const ExperienceList: ExperienceListType[] = [
         date: "July 2021 - September 2022",
         logo: SkyWatch.src,
         position: "Software Developer",
-        description: "Automation Team, ML Team, API & SDK Team",
+        description: "A splendid experience! Worked on various teams and roles: Automation, ML, and API/SDK. I was the youngest hire at the company at 17 years old. I got to work on the backend of the cutting-edge EOD delivery (earth observation data). Most notable works include designing and building their SDK for the EarthCache API and building an internal satellite search engine tool for labelling, reporting, and viewing satellite imagery. It's currently being used across the entire company, and interns now build upon the tool.",
         sources: [
             {
                 title: "EarthCache",
@@ -112,7 +112,7 @@ export const ExperienceList: ExperienceListType[] = [
         date: "July 2021 - September 2022",
         logo: Harvard.src,
         position: "Student Researcher",
-        description: "Lead developer for the MMCA project",
+        description: "I led the software side of the MMCA project which aims to visualize the multimodal indicators of collaboration that have been identified by social scientists over the last decade. A fascinating topic on how multimodal learning changes our behaviour and approach to learning. The MMCA project visually displays this impact in six layers (each layer being more broad), each node being the mode (e.g. eye motion, facial expressions, etc.).  Worked under under Dr. Bertrand Schneider at Harvard LIT lab. I was inducted as the youngest official member of the lab at 18 years old among 120+ members including Harvard PhDs and undergrads.",
         sources: [
             {
                 title: "MMCA Project",
@@ -127,7 +127,7 @@ export const ExperienceList: ExperienceListType[] = [
         date: "August 2020 - November 2020",
         logo: CheaprEats.src,
         position: "Lead Frontend Developer",
-        description: "Lead the development of a virtual receipt builder (this was during COVID-19). This was also my first formal software experience :)",
+        description: "My first formal software experience. Worked with a team of 5 to develop a virtual receipt builder (this was during COVID-19). Learned a lot about working in a team and frontend development: React, styled-components and Tailwind.",
         sources: [
             {
                 title: "Crunchbase",
@@ -142,7 +142,7 @@ export const ExperienceList: ExperienceListType[] = [
         date: "July 2020 - September 2020",
         logo: UWaterloo.src,
         position: "Research Assistant",
-        description: "Read a bunch of research papers on COVID-19 and learned about RL",
+        description: "Worked under Dr. Gordon V. Cormack to create a search engine for scientific literature on COVID-19 by analyzing and labelling 3000+ documents. This was to contribute to increasing the document relevancy model accuracy of S-CAL’s multi-agent reinforcement learning algorithm.",
         sources: [
             {
                 title: "Participation in TREC 2020 COVID Track Using Continuous Active Learning",

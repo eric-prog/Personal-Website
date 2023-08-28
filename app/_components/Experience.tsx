@@ -12,13 +12,13 @@ export default function Experience({ experience }: { experience: ExperienceListT
             <div className="w-fit">
               <p className="text-2xl mb-2">{experience.title}</p>
               <div className="row max-md:flex-wrap">
-                <p className="bg-[#1d2229] rounded mr-1 border-[#585858] block max-md:my-2">{experience.position}</p>
-                <p className="bg-[#1d2229] rounded border-[#585858] block">{experience.date}</p>
+                <p className="bg-[#1d2229] rounded mr-1 border-[#4c4c4c] block max-md:my-2">{experience.position}</p>
+                <p className="bg-[#1d2229] rounded border-[#4c4c4c] block">{experience.date}</p>
               </div>
             </div>
             <img className="w-[9vh] h-[auto] max-md:mt-2" src={experience.logo} alt="logo" />
           </div>
-          <p className="box-border p-2 pl-4 my-2 mb-4 bg-[#181f29] text-[#afafaf] rounded-sm">{experience.description}</p>
+          <p className="box-border p-4 my-2 mb-4 bg-[#181f29] text-[#c2c2c2] rounded-sm leading-7">{experience.description}</p>
           <div className="row items-start flex-wrap">
             {experience.sources.map((source, i) => (
               <div key={i} className={experience.sources.length === 1 ? 'w-full' : 'w-[50%] max-md:w-full'}>
