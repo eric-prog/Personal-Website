@@ -40,7 +40,7 @@ export const ExperienceList: ExperienceListType[] = [
         date: "May 2023 - August 2023",
         logo: Descope.src,
         position: "DevRel Engineer (Founding intern)",
-        description: "The first intern hired at Descope. I'm hacking away at open-source projects, a few of them actively being used by customers (most notably Descope Explorer). The Hackathon Template is expected to be featured on Vercel templates (https://vercel.com/templates) soon! My intuition for design and functional interfaces has led me to be the go-to guy for design in the team.",
+        description: "The first intern hired at Descope. I'm hacking away at open-source projects, a few of them actively being used by customers (most notably Descope Explorer). The Hackathon Template is expected to be featured on Vercel templates (https://vercel.com/templates) soon! My intuition for design and functional interfaces has led me to be the go-to guy for design in the team. Descope has raised $53 million from Lightspeed Venture Partners, GGV Capital, Dell Technologies Capital, TechAviv, J Ventures, Cerca, Unusual Ventures, Silicon Valley CISO Investments and individual investors CrowdStrike CEO George Kurtz and Microsoft chairman John W. Thompson. ",
         sources: [
             {
                 title: "Descope Explorer",
@@ -97,7 +97,7 @@ export const ExperienceList: ExperienceListType[] = [
         date: "July 2021 - September 2022",
         logo: SkyWatch.src,
         position: "Software Developer",
-        description: "A splendid experience! Worked on various teams and roles: Automation, ML, and API/SDK. I was the youngest hire at the company at 17 years old. I got to work on the backend of the cutting-edge EOD delivery (earth observation data). Most notable works include designing and building their SDK for the EarthCache API and building an internal satellite search engine tool for labelling, reporting, and viewing satellite imagery. It's currently being used across the entire company, and interns now build upon the tool.",
+        description: "A splendid experience! Worked on various teams and roles: Automation, ML, and API/SDK. I was the youngest hire at the company at 17 years old. I got to work on the backend of the cutting-edge EOD delivery (earth observation data). Most notable works include designing and building their SDK for the EarthCache API and building an internal satellite search engine tool for labelling, reporting, and viewing satellite imagery. It's currently being used across the entire company, and interns now build upon the tool. Joined during an explosive time of growth during their series A. SkyWatch has raised over $30 million from Drive Capital, BDC ICE Venture Fund, Golden Ventures, Space Capital, and Bullpen Capital.",
         sources: [
             {
                 title: "EarthCache",
