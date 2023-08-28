@@ -15,7 +15,7 @@ export default function Startups({ affiliations, studye }: { affiliations: strin
                     <p className="text-2xl">Studye</p>
                     <img src={Studye.src} alt="studye" className="w-[10vh] h-[auto] bg-slate-50 rounded-full" />    
                 </div>
-                <p className="bg-[#262b30] p-4 rounded-sm my-4 text-[#e1e1e1] leading-7">
+                <p className="bg-[#2d2d31] p-4 rounded-sm my-4 text-[#e1e1e1] leading-7">
                     Inspired by the boredom of my grade 10 history course which included hours of reading through 
                     tedious textbooks, and historical records... Studye was my first go at building a Saas startup: 
                     Grammarly for text summarization. Studye was a data extraction & summarization app for PDFs, documents, 
