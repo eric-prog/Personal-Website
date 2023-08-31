@@ -11,7 +11,7 @@ export default function Intro() {
     <div className={dmSans.className}>
         <h1 className='text-3xl'>Hey, I&apos;m Eric Sheen <span className="ml-1 text-4xl">&#9883;</span></h1>
         <p className="my-8 leading-7 font-thin text-[#e0e0e0]">
-          I&apos;m a full-stack developer, researcher, and community builder. I&apos;m currently working at <Link target='_blank' className='underline' href="https://www.descope.com/">Descope</Link> as a DevRel engineer, where I lead a variety of <Link target='_blank' className='underline' href="https://github.com/descope-sample-apps">open-source projects</Link>, and UI/UX decisions to increase the adoption of our authentication product. I also write <Link target='_blank' className='underline' href="https://www.descope.com/blog">blogs</Link>.
+          I&apos;m a full-stack developer, researcher, and community builder. My latest work was at <Link target='_blank' className='underline' href="https://www.descope.com/">Descope</Link> as a DevRel Engineer, where I built & led a variety of <Link target='_blank' className='underline' href="https://github.com/descope-sample-apps">open-source projects</Link> to increase the adoption of our authentication product. I also wrote a lot of <Link target='_blank' className='underline' href="https://www.descope.com/blog">blogs</Link>.
           <br /><br />
           I&apos;m currently living in Waterloo, ON, Canada. It&apos;s not a city with skylines and tall buildings but it&apos;s a peaceful community with lots of green.
           <br /><br />
